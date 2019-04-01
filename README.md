@@ -23,7 +23,7 @@ for each item on that list, explain briefly how you used that feature to improve
 for each explanation, give a snippet of a conversation that demonstrates your feature
 
 1. I added a spell checker.
-  i. I used the spell check to correct spelling mistakes a user will encounter. These spelling mistakes are corrected and the corrected word is shown to the user so they are aware of the change. This improved the bots ability to understand users that make common mistakes which allows for the program to run more seemlessly.
+  i. I used the spell check to correct spelling mistakes a user will encounter. These spelling mistakes are corrected and the corrected word is shown to the user so they are aware of the change. This improved the bots ability to understand users that make common mistakes which allows for the program to run more seamlessly.
   ii. This is a code snippet:
             ...
             -Price 
@@ -35,7 +35,7 @@ for each explanation, give a snippet of a conversation that demonstrates your fe
             Brand:
   
 2. I added a sentiment analysis tool.
-  i. The sentiment analysis tool helps by taking the users input after the bot asks "How they day is" and proceeds to give a reasonable reponse to how that user feels. This creates a more streamline response which is not hardcoded. The bot is able to judge how the user is expierencing their day when it asks and then proceeeds to reponse accordingly.
+  i. The sentiment analysis tool helps by taking the users input after the bot asks "How they day is" and proceeds to give a reasonable response to how that user feels. This creates a more streamline response which is not hardcoded. The bot can judge how the user is experiencing their day when it asks and then proceeds to response accordingly.
   ii. This is a code snippet:
             ...
             Pleasure to meet you Tayler Verhaegen
